@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #D8D2E1;
+}
+
+.header-container h1 {
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.header-container h6 {
+    font-size: 25px;
+}
+
+.fortune-text-container {
+    border: 2px solid #34435E;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #6369D1;
+    color: white;
+}
+
+#fortune-text {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.header-container img {
+    border: 3px solid purple;
+    margin: 25px;
+}
+
+.fortune-btn {
+    margin: 15px;
+}
+
+.fortune-btn button {
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    border: 2px dotted #34435E;
+    background-color: #B88E8D;
+}
